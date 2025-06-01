@@ -1,3 +1,3 @@
 # T_academy
 
-`SK플래닛 T-academy 시작!`
+`1. EDA프로젝트_UFC_Crawling `
